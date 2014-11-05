@@ -1,0 +1,44 @@
+Introduction to Rails Testing with 30 working examples
+===========================
+Resources:
+
+http://guides.rubyonrails.org/v3.2.13/testing.html#why-write-tests-for-your-rails-applications
+
+http://guides.rubyonrails.org/testing.html
+
+https://www.ruby-toolbox.com/
+
+===========================
+
+Overview:
+Motivate testing through a simple application which requires incremental changes, 
+and which must be delivered the next day.
+
+1. Generate simple app.
+
+2. Usecase
+
+3. 3 user changes to be made
+
+4. Needs to be delivered the next day
+
+5. 3 problems. 
+i.Fiddle with controllers and make something on the homepage break so you can’t use it.
+
+ii. Fiddle with the CSS and make the signup button hidden
+
+iii. Fiddle with the database models and make the database fail
+
+Present 2 solutions
+
+1. Manual testing
+So, we can manually test the application. (
+
+Ask them to test the sample application for 5 features as a group, give them the list of features.
+
+
+
+2. Automated Testing
+But what about changes which break other things? It gets tedious, you can’t find everything. So you need automated testing, which allows you to verify your app is working the way you want it as you code the application.
+
+

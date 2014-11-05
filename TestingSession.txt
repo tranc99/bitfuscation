@@ -33,6 +33,11 @@ Present 2 solutions
 
 1. Manual testing
 So, we can manually test the application. (
+-Correctness of results. e.g. How many people would use Gmail if every time you login, it shows your friend’s email but not your own? So as a developer, you need to make sure your app is correct, otherwise pahh!
+-Results come back quickly, not taking forever. 
+e.g how many people would use Facebook if every time you go to login, it sends a request but takes 4 minutes to log you in?
+-The user interface is not broken e.g. All images show, and there are no strange lines.
+e.g. show them some broken user
 
 Ask them to test the sample application for 5 features as a group, give them the list of features.
 
